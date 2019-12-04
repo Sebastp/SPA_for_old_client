@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+          <svg class="editorial"
+           xmlns="http://www.w3.org/2000/svg"
+           viewBox="0 24 150 28"
+           preserveAspectRatio="none">
+          <defs>
+          <path
+            id="gentle-wave"
+             d="m -160,44.4 c 30,0 58,
+                -18 87.7,-18 30.3,0 58.3,
+                18 87.3,18 30,0 58,-18 88,
+                -18 30,0 58,18 88,18 l 0,
+                34.5 -351,0 z" />
+          </defs>
+          <g class="parallax">
+           <use xlink:href="#gentle-wave" x="50" y="0"/>
+           <use xlink:href="#gentle-wave" x="50" y="3"/>
+           <use xlink:href="#gentle-wave" x="50" y="6"/>
+          </g>
+          </svg>
